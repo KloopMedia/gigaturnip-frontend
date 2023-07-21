@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gigaturnip-frontend/static/css/main.fd3f8054.chunk.css",
+    "main.css": "/gigaturnip-frontend/static/css/main.2023148f.chunk.css",
     "main.js": "/gigaturnip-frontend/static/js/main.4b8112dc.chunk.js",
     "main.js.map": "/gigaturnip-frontend/static/js/main.4b8112dc.chunk.js.map",
     "runtime-main.js": "/gigaturnip-frontend/static/js/runtime-main.0ae7b11b.js",
@@ -12,14 +12,14 @@
     "static/js/3.ac5e40a3.chunk.js.map": "/gigaturnip-frontend/static/js/3.ac5e40a3.chunk.js.map",
     "index.html": "/gigaturnip-frontend/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/gigaturnip-frontend/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.fd3f8054.chunk.css.map": "/gigaturnip-frontend/static/css/main.fd3f8054.chunk.css.map",
+    "static/css/main.2023148f.chunk.css.map": "/gigaturnip-frontend/static/css/main.2023148f.chunk.css.map",
     "static/js/2.465fb59b.chunk.js.LICENSE.txt": "/gigaturnip-frontend/static/js/2.465fb59b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ae7b11b.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.465fb59b.chunk.js",
-    "static/css/main.fd3f8054.chunk.css",
+    "static/css/main.2023148f.chunk.css",
     "static/js/main.4b8112dc.chunk.js"
   ]
 }
